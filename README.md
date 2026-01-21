@@ -1,11 +1,7 @@
 [README.md](https://github.com/user-attachments/files/24771314/README.md)
 # Life Balance Sim
 
-A retro-style 2D life simulator game where you navigate daily choices across three key environments: Gym, Work, and Home. Every decision affects your personal wellbeing and the people around you.
-
-## Play Now
-
-[Play the game here](#) *(Add your GitHub Pages link after deploying)*
+A retro-style 2D life simulator game where you navigate daily choices across three key environments: Gym, Work, and Home. Every decision affects your personal well-being and the people around you.
 
 ## About
 
